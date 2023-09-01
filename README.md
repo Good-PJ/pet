@@ -1,24 +1,24 @@
 # Проект 2 Анализ вакансий на HH
-
+https://github.com/Good-PJ/pet/edit/master/README.md
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/pet/edit/master/README.md#Описание)
 
 
-[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Good-PJ/pet/edit/master/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Краткая-информаци-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/pet/edit/master/README.md#Краткая-информаци-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/pet/edit/master/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/pet/edit/master/README.md#Результаты)
 
-[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Выводы)
+[6. Выводы](https://github.com/Good-PJ/pet/edit/master/README.md#Выводы)
 
 
 ### Описание проекта
 - Проект для тренировки навыков анализа данных, машинного обучения
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/pet/edit/master/README.md#Оглавление)
 
 
 ### Какой кейс решаем
@@ -37,7 +37,7 @@
 ### Краткая информаци о данных
 - данные об учасниках пет-проектов на старте и в финале проекта
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/pet/edit/master/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -67,7 +67,7 @@
 >> *BE, DS - работа с данными*<br>
 >> *Если выбран вариант с web-приложением то и FE*
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/pet/edit/master/README.md#Оглавление)
 
 
 
@@ -75,11 +75,11 @@
 
 При идеальных результатах готовый продукт выдает числовой признак - характеризующий вероятность ухода участника из проекта
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/pet/edit/master/README.md#Оглавление)
 
 
 ### Выводы
 
 - Сделаем в финале проекта
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/pet/edit/master/README.md#Оглавление)
