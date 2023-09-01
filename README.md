@@ -10,7 +10,7 @@
 
 [4. Этапы работы над проектом](https://github.com/Good-PJ/pet/blob/master/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/pet/blob/master/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/pet/blob/master/README.md#Какая-может-потребоваться-помощь)
 
 [6. Выводы](https://github.com/Good-PJ/pet/blob/master/README.md#Выводы)
 
