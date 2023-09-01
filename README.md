@@ -1,5 +1,5 @@
 # Проект 2 Анализ вакансий на HH
-https://github.com/Good-PJ/pet/edit/master/README.md
+
 ## Оглавление
 [1. Описание прокта](https://github.com/Good-PJ/pet/edit/master/README.md#Описание)
 
